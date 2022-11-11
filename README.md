@@ -4,14 +4,14 @@ Packages include functions for data collection from serveral sources and are upd
 
 As of now, supported sources are:
 
-  # Brazilian Central Bank
+  Brazilian Central Bank
   
       A code is required to access each index. You can find all the indexes released by Brazilian Central Bank and their codes at:
       https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries
 
 
 
-  # The Brazilian Institute of Geography and Statistics (IBGE): is the main provider of data and information about the Country.
+  The Brazilian Institute of Geography and Statistics (IBGE): is the main provider of data and information about Brazil.
   
       A code is required to access each index. You can find all the indexes released by The Brazilian Institute of Geography and Statistics and their codes at:
       https://sidra.ibge.gov.br/home/ipca/brasil
