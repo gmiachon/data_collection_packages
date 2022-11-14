@@ -1,6 +1,6 @@
 # data_collection_packages - Updated November 11th, 2022
 
-Packages include functions for data collection from serveral sources and are updated as needed.
+Packages goal is to include functions for data collection from serveral sources.
 
 As of now, supported sources are:
 
